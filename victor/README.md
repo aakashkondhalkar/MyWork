@@ -22,11 +22,11 @@ Application to play game, upload clips, buy cloths and earn rewards
 
 ## 📸 ScreenShots
 
-| Light                            | Dark                             |
-| -------------------------------- | -------------------------------- |
-| <img src="ss/1.jpg" width="300"> | <img src="ss/1.jpg" width="300"> |
-| <img src="ss/2.jpg" width="300"> | <img src="ss/2.jpg" width="300"> |
-| <img src="ss/3.jpg" width="300"> | <img src="ss/3.jpg" width="300"> |
+| Light                                  | Dark                                  |
+| -------------------------------------- | ------------------------------------- |
+| <img src="ss/light/1.jpg" width="300"> | <img src="ss/dark/1.jpg" width="300"> |
+| <img src="ss/light/2.jpg" width="300"> | <img src="ss/dark/2.jpg" width="300"> |
+| <img src="ss/light/3.jpg" width="300"> | <img src="ss/dark/3.jpg" width="300"> |
 
 ## 🔌 Plugins
 
