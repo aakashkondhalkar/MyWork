@@ -1,4 +1,4 @@
-# Victor
+# QuickMobile
 
 Old mobile phone buying platform
 
