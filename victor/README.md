@@ -2,24 +2,6 @@
 
 Application to play game, upload clips, buy cloths and earn rewards
 
-<br>
-
-![gif](https://i.imgur.com/j1pbhkH.gif)
-
-<br>
-
-## 💻 Requirements
-
-- Any Operating System (ie. MacOS X, Linux, Windows)
-- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
-- A little knowledge of Dart and Flutter
-- An account for weather API Goto https://openweathermap.org/, copy api and add to `lib/api_key.dart` file
-
-## ✨ Features
-
-- [x] Search Weather by Country.
-- [x] Network status cheking.
-
 ## 📸 ScreenShots
 
 | Light                                   | Dark                                   |
